@@ -6,7 +6,7 @@ import pickle
 # ===============================
 # Load Data and Model
 # ===============================
-DATA_PATH = r"C://Users//kunde//Desktop//Virtual internship//InternPe//Assignments//Task 2 -  using streamlit//quickr_car_cleaned_by_shaunak.csv"
+DATA_PATH = r"DATA_PATH = "quickr_car_cleaned_by_shaunak.csv""
 MODEL_PATH = r"C://Users//kunde//Desktop//Virtual internship//InternPe//Assignments//Task 2 -  using streamlit//LinearRegressionModel_Shaunak.pkl"
 
 # Load dataset
@@ -56,6 +56,7 @@ if st.button("Predict Price"):
 
     except Exception as e:
         st.error(f"Error in prediction: {e}")
+
 
 
 
