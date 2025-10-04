@@ -1,4 +1,4 @@
-# 🚗 Car Resale Price Predictor – Machine Learning Project
+# 🚗 Car Resale Price Predictor Web App Deployed – Machine Learning Project
 
 I built this project to explore how machine learning can be applied to a practical problem – predicting the resale price of used cars. The project demonstrates the complete workflow from data cleaning and preprocessing to model training and deployment in an interactive **Streamlit** web app.
 
